@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 ### :woman_technologist: I am an entry-level Software Developer looking for a position where I can learn on the job.
 ### :woman_student: I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in HTML, CSS and Javascript. 
