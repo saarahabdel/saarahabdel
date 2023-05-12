@@ -5,7 +5,7 @@
 ### :boom: My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
 ### Links To My Latest Projects:
-[Project 1](https://github.com/saarahabdel/SAAABD037_FTC2301_GroupB_SaarahAbdelmaged_ITW_DigitalResume)
+[Project 1](https://github.com/saarahabdel/SAAABD037_FTC2301_GroupB_SaarahAbdelmaged_ITW_DigitalResume) ||
 [Project 2](https://github.com/saarahabdel/SAAABD037_FTC2301_GroupB_SaarahAbdelmaged_ITW_IWA19)
     
 
