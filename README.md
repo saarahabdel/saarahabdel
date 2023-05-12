@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I am an entry-level Software Developer looking for a position where I can learn on the job. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in HTML, CSS and Javascript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
+### I am an entry-level Software Developer looking for a position where I can learn on the job. I am a recent graduate from CodeSpace Academy, where I completed a Software Development course, and I am proficient in HTML, CSS and Javascript. My studies have prepared me to be able to learn rapidly, and I am committed to learning new technologies and languages.
 
 <!--
 **saarahabdel/saarahabdel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
